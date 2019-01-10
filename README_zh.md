@@ -10,3 +10,6 @@ sh install.sh
 ```
 
 **默认支持版本为Tower 3，其他版本请修改shell中的目录地址**
+
+实现参考：
+>https://www.git-tower.com/help/mac/integration/custom-diff-tools
